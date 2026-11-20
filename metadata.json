@@ -1,0 +1,6 @@
+{
+  "name": "Rubric",
+  "description": "A distraction-free mobile writing sanctuary with deep burgundy surfaces, warm metallic gold accents, local manuscript storage, and a personal vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
